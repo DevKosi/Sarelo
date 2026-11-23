@@ -1,5 +1,2 @@
-ASSIGNMENT 2.
-
-In your cloned repo, create a new file in two different git branches each and merge to your main branch
-
-
+This is Assignment 2.
+File created in assignment-branch-1.
