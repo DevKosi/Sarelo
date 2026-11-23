@@ -1,4 +1,5 @@
-This is Assignment 2.
-File created in assignment-branch-1.
-File created in assignment-branch-2.
- assignment-branch-2
+ASSIGNMENT 2.
+
+File was created in assignment-branch-1.
+File was created in assignment-branch-2.
+
